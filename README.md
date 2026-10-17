@@ -204,5 +204,6 @@ To explore or run any of the practice modules and projects locally:
 
 ## 👨‍💻 Author & Acknowledgments
 
-- **Developer:** [shinchan2222](https://github.com/shinchan2222)
+- **Developer:** [KarthikeyanSA369](https://github.com/KarthikeyanSA369/)
+  
 - **Mentor:** Special thanks to **[@Vimal4hckr](https://github.com/Vimal4hckr)** for continuous mentorship, technical guidance, and curriculum design.
